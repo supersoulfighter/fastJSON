@@ -1,5 +1,12 @@
-# fastJSON
+### Note from Jeff Ettenhofer
+The following are the very limited steps I took to convert this to a Unity Package:
+1. Compiled fastJSON solution in JetBrains Rider
+2. Deleted everything except the .Net 4 .DLL (and help files like this one)
+3. Created a package.json file.
 
+***
+
+# fastJSON
 
 Smallest, fastest polymorphic JSON serializer
 

@@ -1,0 +1,15 @@
+{
+  "name": "com.github.mgholam.fastjson",
+  "displayName": "fastJSON",
+  "description": "fastJSON as a Unity package",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": {
+    "name": "Jeff Ettenhofer",
+    "url": "https://github.com/mgholam/fastJSON"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supersoulfighter/fastJSON.git"
+  }
+}
